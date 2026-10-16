@@ -521,6 +521,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
 
 ---
+- **[Chisle](https://github.com/JayPokale/Chisle)** – Cuts the token bill of Claude Code, Cursor, Codex, Gemini CLI and other coding agents with terse answers, smallest-code-that-works rules and tool-output trimming; open source, with published benchmarks.
 
 ## AI Frameworks and SDKs
 
